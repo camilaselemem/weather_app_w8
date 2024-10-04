@@ -68,6 +68,7 @@ function displayForecast() {
         <div class="weather-forecast-temperature"><strong>15°C</strong></div>
         <div class="weather-forecast-temperature"> 9°C</div>
       </div> 
+      </div>
       `;
   });
 
